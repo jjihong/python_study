@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1323775-5546-4624-a7eb-4411b2e108c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kJO4UVoUcC8fH7R54ikAdLBfLn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python. collections라이브러리.executor": "Run",
+    "Python.240822_ATM.executor": "Run",
+    "Python.240822_설탕배달.executor": "Run",
+    "Python.240826_동전0.executor": "Run",
+    "Python.6001_출력.executor": "Run",
+    "Python.6006_출력.executor": "Run",
+    "Python.6007_출력.executor": "Run",
+    "Python.6008_출력.executor": "Run",
+    "Python.6009_입출력.executor": "Run",
+    "Python.6010_입출력.executor": "Run",
+    "Python.6012_입출력.executor": "Run",
+    "Python.6013_입출력.executor": "Run",
+    "Python.6014_입출력.executor": "Run",
+    "Python.6015_입출력.executor": "Run",
+    "Python.6016_입출력.executor": "Run",
+    "Python.6017_입출력.executor": "Run",
+    "Python.6018_입출력.executor": "Run",
+    "Python.6019_입출력.executor": "Run",
+    "Python.6020_입출력.executor": "Run",
+    "Python.6021_입출력.executor": "Run",
+    "Python.6022_입출력.executor": "Run",
+    "Python.6023_입출력.executor": "Run",
+    "Python.6024_입출력.executor": "Run",
+    "Python.6025_값변환.executor": "Run",
+    "Python.6026_값변환.executor": "Run",
+    "Python.6027_출력변환.executor": "Run",
+    "Python.6028_출력변환.executor": "Run",
+    "Python.6029_값변환.executor": "Run",
+    "Python.6030_값변환.executor": "Run",
+    "Python.6031_값변환.executor": "Run",
+    "Python.6032_산술연산.executor": "Run",
+    "Python.6033_산술연산.executor": "Run",
+    "Python.6034_산술연산.executor": "Run",
+    "Python.6035_산술연산.executor": "Run",
+    "Python.6036_ 단어 여러 번 출력하기.executor": "Run",
+    "Python.6037_문장 여러 번 출력하기.executor": "Run",
+    "Python.6042_실수 1개 입력받아 소숫점이하 자리 변환하기.executor": "Run",
+    "Python.6043_실수 2개 입력받아 나눈 결과 계산하기.executor": "Run",
+    "Python.6044_정수 2개 입력받아 자동 계산하기.executor": "Run",
+    "Python.6047_2의 거듭제곱 배로 곱해 출력하기.executor": "Run",
+    "Python.6048_정수 2개 입력받아 비교하기1.executor": "Run",
+    "Python.6052_정수 입력받아 참 거짓 평가하기.executor": "Run",
+    "Python.6053_참 거짓 바꾸기.executor": "Run",
+    "Python.6054_둘 다 참일 경우만 참 출력하기.executor": "Run",
+    "Python.6059_비트단위로 NOT 하여 출력하기.executor": "Run",
+    "Python.6064_정수 3개 입력받아 가장 작은 값 출력하기.executor": "Run",
+    "Python.6065_정수 3개 입력받아 짝수만 출력하기.executor": "Run",
+    "Python.6068_원하는 문자가 입력될 때까지 반복 출력하기.executor": "Run",
+    "Python.6069_평가 입력받아 다르게 출력하기.executor": "Run",
+    "Python.6070_월 입력받아 계절 출력하기.executor": "Run",
+    "Python.6071_0 입력될 때까지 무한 출력하기.executor": "Run",
+    "Python.6072_정수 1개 입력받아 카운트다운 출력하기1.executor": "Run",
+    "Python.6074_문자 1개 입력받아 알파벳 출력하기.executor": "Run",
+    "Python.6075_정수 1개 입력받아 그 수까지 출력하기1.executor": "Run",
+    "Python.6079_언제까지 더해야 할까.executor": "Run",
+    "Python.6080_주사위 2개 던지기.executor": "Run",
+    "Python.6081_16진수 구구단 출력하기.executor": "Run",
+    "Python.6082_3 6 9 게임의 왕이 되자.executor": "Run",
+    "Python.6083_ 빛 섞어 색 만들기.executor": "Run",
+    "Python.6084_소리 파일 저장용량 계산하기.executor": "Run",
+    "Python.6085_그림 파일 저장용량 계산하기.executor": "Run",
+    "Python.6086_거기까지! 이제 그만.executor": "Run",
+    "Python.6087_3의 배수는 통과.executor": "Run",
+    "Python.6089_등비수열.executor": "Run",
+    "Python.6090_수 나열하기3.executor": "Run",
+    "Python.6091_최소공배수.executor": "Run",
+    "Python.6092_이상한 출석 번호 부르기1.executor": "Run",
+    "Python.6093_이상한 출석 번호 부르기2.executor": "Run",
+    "Python.6094_이상한 출석 번호 부르기3.executor": "Run",
+    "Python.6095_바둑판에 흰 돌 놓기.executor": "Run",
+    "Python.6096_바둑알 십자 뒤집기.executor": "Run",
+    "Python.6097_설탕과자 뽑기.executor": "Run",
+    "Python.6098_성실한개미.executor": "Run",
+    "Python.bisect.executor": "Run",
+    "Python.bisect예제.executor": "Run",
+    "Python.math라이브러리.executor": "Run",
+    "Python.내장함수,itertools.executor": "Run",
+    "Python.리스트관련메서드.executor": "Run",
+    "Python.리스트자료형.executor": "Run",
+    "Python.문자열자료형.executor": "Run",
+    "Python.반복문.executor": "Run",
+    "Python.사전자료형.executor": "Run",
+    "Python.소수의판별.executor": "Run",
+    "Python.숫자자료형.executor": "Run",
+    "Python.입출력.executor": "Run",
+    "Python.조건문.executor": "Run",
+    "Python.주요라이브러리1.executor": "Run",
+    "Python.주요라이브러리2.executor": "Run",
+    "Python.집합자료형.executor": "Run",
+    "Python.튜플자료형.executor": "Run",
+    "Python.함수.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kim ji hong/Desktop/pythonPractice"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kim ji hong\Desktop\pythonProject1\코드업기초100제" />
+      <recent name="C:\Users\kim ji hong\Desktop\pythonProject1" />
+      <recent name="C:\Users\kim ji hong\Desktop\pythonProject1\기초개념" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1323775-5546-4624-a7eb-4411b2e108c5" name="Changes" comment="" />
+      <created>1722998021950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722998021950</updated>
+    </task>
+    <servers />
+  </component>
+</project>
