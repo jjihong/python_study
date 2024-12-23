@@ -13,40 +13,36 @@
 
 import heapq
 
+
 def heapsort(iterable):
     h = []
     result = []
     # 모든 원소를 차례대로 힙에 삽입
     for value in iterable:
-        heapq.heappush(h,value)
+        heapq.heappush(h, value)
     # 힙에 삽입된 모든 원소를 차례대로 꺼내어 담기
     for _ in range(len(h)):
         result.append(heapq.heappop(h))
     return result
 
-result = heapsort([1,3,5,7,9,2,4,6,8,0])
-print(result)
+
+result = heapsort([1, 3, 5, 7, 9, 2, 4, 6, 8, 0])
+print(result)  # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 # 파이썬은 최대힙을 제공하지 않는다.
 # 따라서 최대 힙을 구현해야할때는 원소의 부호를 임시로 변경하는 방식을 사용한다.
 
+
 def heapsort2(iterable):
     h = []
     result = []
-    #모든원소를 차례대로 힙에 삽입
+    # 모든원소를 차례대로 힙에 삽입
     for value in iterable:
-        heapq.heappush(h,-value)
+        heapq.heappush(h, -value)
     for _ in range(len(h)):
         result.append(-heapq.heappop(h))
     return result
 
-result = heapsort2([1,3,5,7,9,2,4,6,8,0])
-print(result)
 
-
-
-
-
-
-
-
+result = heapsort2([1, 3, 5, 7, 9, 2, 4, 6, 8, 0])
+print(result)  # [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]

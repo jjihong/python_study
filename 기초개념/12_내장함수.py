@@ -12,10 +12,8 @@ collections: deque, counter등의 유용한 자료구조를 포함하는 라이�
 # input,print,sum(iterable객체),max(),min(),
 # eval()>수학수식을 문자열로 입력시 계산
 # sorted() 정렬된 결과를 반환
-result = sorted([9,1,8,5,4])
+result = sorted([9, 1, 8, 5, 4])
 print(result)
-result = sorted([9,1,8,5,4], reverse=True)
+result = sorted([9, 1, 8, 5, 4], reverse=True)
 print(result)
 # 그러나 iterable객체는 기본으로 sort()함수를 내장하고 있다.
-
-

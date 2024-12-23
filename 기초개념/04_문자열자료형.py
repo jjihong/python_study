@@ -14,5 +14,5 @@ a = "String"
 print(a * 3)  # StringStringString
 
 a = "ABCDEF"
-print(a[2:4]) # CD
-
+print(a[2:4])  # CD
+print(a[3])  # D
