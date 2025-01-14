@@ -4,12 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1323775-5546-4624-a7eb-4411b2e108c5" name="Changes" comment="" />
+    <list default="true" id="c1323775-5546-4624-a7eb-4411b2e108c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1004_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1008_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1260.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_01_find_max_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_02_find_max_occured_alphabet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_03_is_number_exist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_04_find_max_plus_or_multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_05_find_not_repeating_fist_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_06_find_prime_list_under_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/1st_week/01_07_find_count_to_turn_out_to_all_zero_or_all_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_01_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_02_append_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_03_get_node_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_04_add_node_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_05_delete_node_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_06_get_linked_list_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_07_is_existing_target_number_sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_08_is_existing_target_number_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_09_is_existing_target_number_binary2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_10_count_down_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_11_factorial_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_12_is_palindrome_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_13_is_palindrome_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_14_get_kth_node_from_last.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_15_is_available_to_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_15_is_availabler_to_order_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/02_16_get_count_of_ways_to_target_by_doing_plus_or_minus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/2nd_week/node_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_01_bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_02_selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_03_insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_04_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_05_merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_06_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘/동적프로그래밍.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/동적프로그래밍.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jjihong&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jjihong/python_study.git&quot;,
+    &quot;accountId&quot;: &quot;8a630038-f391-41f2-a47a-a3c4c804459d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -21,6 +84,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python. collections라이브러리.executor": "Run",
+    "Python.03_04_merge.executor": "Run",
+    "Python.03_06_stack.executor": "Run",
+    "Python.04_04_dfs_stack.executor": "Run",
+    "Python.1004.executor": "Run",
+    "Python.1004_2.executor": "Run",
+    "Python.1008.executor": "Run",
+    "Python.1008_2.executor": "Run",
+    "Python.1260.executor": "Run",
     "Python.240822_ATM.executor": "Run",
     "Python.240822_설탕배달.executor": "Run",
     "Python.240826_동전0.executor": "Run",
@@ -112,11 +183,18 @@
     "Python.튜플자료형.executor": "Run",
     "Python.함수.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kim ji hong/Desktop/pythonPractice"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jihong/Desktop/python_study/dingcorithm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dingcorithm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dingcorithm" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\kim ji hong\Desktop\pythonProject1\코드업기초100제" />
       <recent name="C:\Users\kim ji hong\Desktop\pythonProject1" />
       <recent name="C:\Users\kim ji hong\Desktop\pythonProject1\기초개념" />

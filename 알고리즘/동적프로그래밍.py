@@ -16,6 +16,6 @@ def fib(n):
 
 
 # 사용 예시
-n = 9
+n = 3
 result = fib(n)
 print(f"피보나치 수열의 {n}번째 수:", result)
